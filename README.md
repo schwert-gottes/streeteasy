@@ -26,7 +26,7 @@
 
 ## Introduction
 
-This repo holds the website for Vertexo.com. The website is built with:
+This repo holds the website for StreetEasy.com. The website is built with:
 
 ![React](https://img.shields.io/badge/React-17.x-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5.3-blueviolet)
