@@ -82,18 +82,21 @@ Users can search for properties by price, keywords, addresses, number of rooms, 
 ## Agent Engagement
 
 StreetEasy users can see agents responsible for property listings, and those that cover specific areas of NYC, and choose the one they want to deal with through the app.
- <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446160-game-scheduling.png" width="350px" >
+ 
+<img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446160-game-scheduling.png" width="350px" >
 
 
 ## Communication
 
 Communication between users and agents is performed through messages within the app, and phone calls, which are tracked using Twilio, a cloud communications platform.
+
  <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446148-admin-panel.png" width="350px" >
 
 
 ## Scrapping
 
 Adding listings from third-party sites is achieved with the help of scraping, a technology for obtaining web data by extracting it from external websites.
+
  <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446164-profile-management.png" width="350px" >
 
 ## 3D Tours
@@ -107,10 +110,9 @@ StreetEasy supports 3D tours that help potential buyers and renters view propert
 
 ## Contact
 
-If you have any questions or feedback regarding this project, feel free to reach out to me:
+If you have any questions or feedback regarding this project, feel free to reach out to me.
 
-- LinkedIn: [Waleed Saifi](https://www.linkedin.com/in/javascript-web-developer/)
-- Upwork: [Waleed Saifi](https://www.upwork.com/freelancers/waleedsaifi0890)
+
 
 
 I'd be happy to hear from you and discuss anything related to this project or any potential collaborations!
