@@ -75,7 +75,7 @@ StreetEasy is New York City’s leading local real estate marketplace, with mobi
 
 Users can search for properties by price, keywords, addresses, number of rooms, and other advanced options.
 
- <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446155-credit-handling.png" width="350px" >
+
 
 
 
@@ -83,28 +83,27 @@ Users can search for properties by price, keywords, addresses, number of rooms, 
 
 StreetEasy users can see agents responsible for property listings, and those that cover specific areas of NYC, and choose the one they want to deal with through the app.
  
-<img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446160-game-scheduling.png" width="350px" >
 
 
 ## Communication
 
 Communication between users and agents is performed through messages within the app, and phone calls, which are tracked using Twilio, a cloud communications platform.
 
- <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446148-admin-panel.png" width="350px" >
+
 
 
 ## Scrapping
 
 Adding listings from third-party sites is achieved with the help of scraping, a technology for obtaining web data by extracting it from external websites.
 
- <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446164-profile-management.png" width="350px" >
+
 
 ## 3D Tours
 
 StreetEasy supports 3D tours that help potential buyers and renters view properties they’re interested in without viewing in-person. This is proving really useful and essential in the era of Covid-19.
 
 
-<img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446164-profile-management.png" width="350px" >
+
 
 
 
